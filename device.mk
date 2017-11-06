@@ -80,6 +80,8 @@ PRODUCT_PACKAGES += \
     camera.device@1.0-impl-legacy \
     Snap \
     libxml2 \
+    libshim_camera \
+    libshim_cameraclient \
     camera.msm8226
 
 # Configstore
